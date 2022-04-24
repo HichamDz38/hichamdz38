@@ -6,3 +6,4 @@
 - 💬 Ask me about hardware design / PCB design
 - 📫 How to reach me: hichamdz38
 
+![](https://komarev.com/ghpvc/?username=hichamdz38)
